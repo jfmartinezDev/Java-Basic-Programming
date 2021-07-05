@@ -1,2 +1,2 @@
 # Java-Basic-Programming
-Repository of the course Basic programing with Java
+Repository of the course: "Basic programing with Java"
